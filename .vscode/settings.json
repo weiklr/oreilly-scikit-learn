@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/home/wayne/anaconda3/envs/oreilly_sklearn/bin/python",
+    "python.terminal.activateEnvironment": true
+}

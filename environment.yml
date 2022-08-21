@@ -1,0 +1,19 @@
+name: oreilly_sklearn
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - jupyter
+  - scipy
+  - scikit-learn
+  - seaborn
+  - graphviz
+  - pygraphviz
+  - pyamg
+  - matplotlib
+  - pip
+  - pip:
+      - pillow
